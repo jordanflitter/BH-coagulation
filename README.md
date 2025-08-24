@@ -4,7 +4,7 @@ This is a Matlab code that solves the modified coagulation (Smoluchowski) equati
 <img src="https://github.com/jordanflitter/BH-coagulation/blob/main/images/N_vs_time.png" alt="N_vs_time" width="537" height="438">
 <img src="https://github.com/jordanflitter/BH-coagulation/blob/main/images/M_vs_time.png" alt="M_vs_time" width="537" height="438">
 <img src="https://github.com/jordanflitter/BH-coagulation/blob/main/images/P_vs_time.png" alt="P_vs_time" width="537" height="438">
-![BHMF](https://github.com/jordanflitter/BH-coagulation/blob/main/images/BHMF.png)
+<img src="https://github.com/jordanflitter/BH-coagulation/blob/main/images/BHMF.png" alt="BHMF" width="544" height="407">
 
 ## Using the code
 To run the code run `Main.m`. Read the documentation in that file to understand the meaning of the different parameters and adjust their values.
